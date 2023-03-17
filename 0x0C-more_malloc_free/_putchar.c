@@ -9,7 +9,7 @@
  *
  */
 
-int _putchar(char i);
+int _putchar(char i)
 {
 	return (write(1, &i, 1));
 }

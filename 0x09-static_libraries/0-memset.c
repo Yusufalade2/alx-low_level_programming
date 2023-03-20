@@ -1,4 +1,8 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 /**
  * _memset - fills string with constant char b upto n bytes
  * @s: input pointer to string
